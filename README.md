@@ -1,0 +1,1 @@
+Meu portfólio desenvolvido do zero em JavaScript, HTML e CSS. Mostra meu contato, objetivo profissional e projetos web. Destaco meu desenvolvimento na área de programação e compartilho experiências até o momento.
